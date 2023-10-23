@@ -1,0 +1,13 @@
+
+.hello{
+    width:300px;
+    length: 300px;
+    background: red;
+    transition: width 0.5s ease;
+    
+
+}
+.hello:hover{
+    background: black;
+    width: 600px;
+}
